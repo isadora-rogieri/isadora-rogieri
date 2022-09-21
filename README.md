@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isadora-rogieri  I'm 26 years old, I'm in career transition, starting a career in programming
+- 👋 Hi, I’m @isadora-rogieri  I'm 27 years old, I'm in career transition, starting a career in programming
 - 👀 I am interested in learning more and improving myself
 - 🌱 I’m currently learning development in JAVA, HTML, CSS, JS
 - 📫 How to reach me isaa.rogieri@gmail.com and https://www.linkedin.com/in/isadora-oliveira-rogieri-200b30163/

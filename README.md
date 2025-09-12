@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @isadora-rogieri  I'm 29 years old, I'm in career transition, starting a career in programming
-- 👀 I am interested in learning more and improving myself
-- 🌱 I’m currently learning development in JAVA, HTML, CSS, JS, React, TypeScript
+- 👋 Hi, my name is @isadora-rogieri. I'm 29 years old and I work as a full-stack developer.
+- 👀 I'm interested in learning more and improving my skills.
+- 🌱 Currently, I'm working primarily with Java development using SpringBoot, JS, React, and TypeScript.
 - 📫 How to reach me isaa.rogieri@gmail.com and https://www.linkedin.com/in/isadora-oliveira-rogieri-200b30163/
 
 <!---

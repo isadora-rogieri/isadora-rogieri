@@ -1,3 +1,3 @@
-- ![hello](https://s8.ezgif.com/tmp/ezgif-82c49bb7fc9443.gif) Olá meu nome é Isadora Rogieri. Trabalho atualmente como desenvolvedora back-end, mas atuo como full-stack no dia a dia.
+- Olá meu nome é Isadora Rogieri. Trabalho atualmente como desenvolvedora back-end, mas atuo como full-stack no dia a dia.
 - 🌱 Atuando em projetos utilizando Java e Spring Boot, e também de projetos Front-end com JavaScript, TypeScript e React.
 - 📫 Meus contatos: isaa.rogieri@gmail.com e https://www.linkedin.com/in/isadora-oliveira-rogieri-200b30163/
